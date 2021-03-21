@@ -1,5 +1,5 @@
 # STACK
-![stack_of_papers](stackofpapers.jpg =550x400)
+![stack_of_papers](stackofpapers.jpg)
 
 
 ## Introduction
