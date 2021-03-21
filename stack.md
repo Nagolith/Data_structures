@@ -1,5 +1,5 @@
 # STACK
-![stack_of_papers](stackofpapers.jpg)
+![stack_of_papers](stackofpapers.jpg){:height="50%" width="50%"}
 
 
 ## Introduction
